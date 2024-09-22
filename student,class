@@ -1,0 +1,31 @@
+public class Student {
+    public String name;
+    public String major ;
+    public int  ID;
+    public Double GPA;
+    public Student( String name , String major ,int ID , Double GPA){
+        this.name = name ;
+        this.major = major ;
+        this.ID = ID ;
+        this.GPA = GPA;
+    }
+    public void displayInfo (){
+        System.out.println("student's name:"+name);
+        System.out.println("student's major:"+major);
+        System.out.println("student's ID:" +ID);
+        System.out.println("student's GPA:"+ GPA);
+    }
+    public static void main(String[] args) {
+        // Create a new Student object
+        Student student1 = new Student("Aiturgan","Data Science", 5555555, 3.7;
+        Student student2 = new Student("Saikal","Managament in It", 00018915,2.0);
+        Student student3 = new Student("Duulat","Comp math", 2310508,4.0);
+        //
+        // Display the information of the student
+        student1.displayInfo();
+        System.out.println();
+        student2.displayInfo();
+        System.out.println();
+        student3.displayInfo();
+    }
+}
