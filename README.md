@@ -1,3 +1,8 @@
+UML
+
+![Снимок экрана ](https://github.com/user-attachments/assets/8a14174d-7b40-4517-8c95-933e902e88cc)
+![Снимок экрана ](https://github.com/user-attachments/assets/8300c857-e5ad-4e93-8bdb-6fdfdb18b6a5)
+
 # Student Class Project
 
 This repository contains a Java class `Student` that represents students with attributes such as name, major, student ID, and GPA. The class also provides a method to display the student's information.
