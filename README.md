@@ -29,3 +29,7 @@ public static void main(String[] args) {
     System.out.println();
     student3.displayInfo();
 }
+UMl diagrama
+
+![Снимок экрана ](https://github.com/user-attachments/assets/fb938e32-a4bb-4980-bca7-46322b631c67)
+
