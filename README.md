@@ -1,7 +1,3 @@
-UML
-
-![Снимок экрана ](https://github.com/user-attachments/assets/8a14174d-7b40-4517-8c95-933e902e88cc)
-![Снимок экрана ](https://github.com/user-attachments/assets/8300c857-e5ad-4e93-8bdb-6fdfdb18b6a5)
 
 # Student Class Project
 
